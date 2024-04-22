@@ -16,7 +16,6 @@ Is it important to compare algorithms?
 
 If two different algorithms can accomplish the same task, then why do we care about which one is better?
 
-
 What is Complexity?
 
 1. When analyzing the complexity of an algorithm, we calcuate the (time or space) complexity.
