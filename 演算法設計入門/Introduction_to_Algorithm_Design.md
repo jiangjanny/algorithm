@@ -24,6 +24,8 @@ Pseudocode for Linear Search ( Pseudocode => p 不發音 意思是 虛擬代碼 
 
 > Average performance O(n.2)
 
+![1713838008320](images/Introduction_to_Algorithm_Design/1713838008320.png)
+
 ## Binary Search :
 
 > 簡單來說就是 一值 切兩半 篩選 值到 找到要的參數
