@@ -5,6 +5,11 @@
 
 function delay(ms) {
     // 請在這裡實現代碼
+    return new Promise((resolve, reject)=> {
+        setTimeout(() => {
+            resolve
+        }, ms);
+    })
 }
 
 
